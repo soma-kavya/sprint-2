@@ -9,7 +9,8 @@ import Navbar from "../../components/Navbar";
 export default class Store extends Component {
   render() {
     return (
-      <section>
+      <div className="paymentbg">
+        <section>
         <Navbar />
         <ProductConsumer>
           {(value) => {
@@ -29,6 +30,7 @@ export default class Store extends Component {
           }}
         </ProductConsumer>
       </section>
+      </div>
     );
   }
 }

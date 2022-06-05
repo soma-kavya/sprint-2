@@ -15,8 +15,8 @@ export default class ProductList extends Component {
         <Navbar />
         <React.Fragment>
           <ProductWrapper className="py-5">
-            <div className="container">
-              <Title name="Mobiles" title="List" />
+            <div className="container ">
+              <Title name="Mobiles List" />
               <div className="row">
                 <ProductConsumer>
                   {(value) => {

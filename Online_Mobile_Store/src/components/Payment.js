@@ -7,7 +7,7 @@ function Payment() {
     <div>
       <Navbar/>
       <div class="paymentbg">
-        <br /> <br />
+        <br />
         <br />
         <h1>
           <div class="title">Checkout Form</div>

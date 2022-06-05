@@ -49,10 +49,10 @@ export const storeProducts = [
   },
   {
     id: 5,
-    title: "IPhone_13 Pro Max",
-    img: "img/IPhone_13.webp",
+    title: "One Plus 10 pro",
+    img: "img/one_plus.webp",
     price: 139000,
-    company: "IPHONE",
+    company: "ONE PLUS",
     info:
       "The iPhone 13 Pro Max is Apple's biggest iPhone, but it doens't have any advantages over the iPhone 13 Pro in terms of features, unlike in previous generations. It's heavy and unwieldy, but the big display is great for games and the increased battery capacity allows for nearly two full days of regular use. The display gets a 120Hz refresh rate, but there's still an unsightly notch that interferes with movies. Performance is great thanks to the A15 Bionic SoC. You can choose betweeen 128GB, 256GB, 512GB and 1TB storage options. The main new features are camera-related: Cinematic Mode and Photographic Styles. The camera hardware has also been improved, compared to the previous generation. You can now take macros and the optical zoom goes up to 3X. Although incredibly expensive, the iPhone 13 Pro Max represents the best of the best in the iPhone lineup.",
     inCart: false,
@@ -74,7 +74,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "Samsung Galaxy S22",
-    img: "img/samsung_Galaxy_s22.jpg",
+    img: "img/samsung_galaxy.jpg",
     price: 76000,
     company: "SAMSUNG",
     info:

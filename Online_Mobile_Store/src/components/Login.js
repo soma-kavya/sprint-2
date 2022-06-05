@@ -50,11 +50,6 @@ function Login() {
                       <Link to="/ProductList" className="nav-link logincolor">
                         Login
                       </Link>
-                      {/* <Link to="/ProductList">
-                        <ButtonContainer>
-                          Login
-                        </ButtonContainer>
-                      </Link> */}
                     </button>
                   </div>
                   <div class="col-md-12 ">
