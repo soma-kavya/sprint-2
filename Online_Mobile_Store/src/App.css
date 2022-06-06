@@ -64,9 +64,10 @@ body {
 
 .storecolor {
   background-color: #23a0bc6d;
-  background-size: cover;
+  /* background-size: cover; */
   height: 100vh;
   background-image: url("./components/React_img.webp");
+  background-position: right;
 }
 
 .logincolor {

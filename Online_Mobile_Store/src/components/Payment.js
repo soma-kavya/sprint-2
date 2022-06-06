@@ -4,7 +4,7 @@ import { ButtonContainer } from "./Button";
 import Navbar from "./Navbar";
 function Payment() {
   return (
-    <div>
+    <div >
       <Navbar/>
       <div class="paymentbg">
         <br />

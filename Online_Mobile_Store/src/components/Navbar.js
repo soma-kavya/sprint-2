@@ -11,11 +11,10 @@ export default class Navbar extends Component {
         </Link>
 
         <ul className="navbar-nav align-items-center">
-          <li className="nav-item ml-5">
             <Link to="/ProductList" className="nav-link">
+            <li className="nav-item ml-5 fas fa-home mr-2"/>
               Home
             </Link>
-          </li>
         </ul>
         <Link to="/Payment" className="ml-auto">
           <ButtonContainer>Payment</ButtonContainer>
